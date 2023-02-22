@@ -1,9 +1,9 @@
 package org.computer;
 
 public class Computer {
-	//Method Creation
+	//Method Creation Normally
 	public void compModel() {
-		System.out.println("Computer Model is Lenovo ThinkPad");
+		System.out.println(" My Computer Model name is Lenovo ThinkPad");
 
 	
 	}
